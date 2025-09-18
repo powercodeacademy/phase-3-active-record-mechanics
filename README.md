@@ -112,7 +112,7 @@ To code along with these examples, first, run `bundle install` to set up the
 necessary gems. Then, run:
 
 ```console
-$ ruby active_record.rb
+ruby active_record.rb
 ```
 
 This will enter you into a Pry session where you can try out the methods listed
